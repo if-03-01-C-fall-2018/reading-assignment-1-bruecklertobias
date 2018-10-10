@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="de">
+	<head>
+		<meta charset="utf-8" />
+		<title>Cheat Sheet</title>
+	</head>
+	<body>
+		<h1>Cheat Sheet</</h1>
+		
+		<h2>1. task: World Wide Web General</h2>
+		
+		<h3>1.1 What are the most essential technologies that made the World Wide Web such a success?</h3>
+		<h7>HTTP (HyperText Transfer Protocol), HTML (HyperText Markup Language) and URI (Uniform Resource Identifier) are the most essential technologies. </h7>
+		
+		<h3>1.2 How are resources (html pages, images, etc) addressed in the web?</h3>
+		<h7>With the URL </h7>
+		
+		<h3>1.3 What are the general components of a url?</h3>
+		<h7>The general components are scheme, host, path and query string  </h7>
+		<h7> </h7>
+		
+		<h2>2. task: Web Server</h2>
+		
+		<h3>2.1 What is a web server?</h3>
+		<h7>A web server refers to a server software, or hardware dedicated to running said software, that can serve contents to the World Wide Web. A web server processes incoming network requests over HTTP and several other related protocols. </h7>
+		
+		<h3>2.2 What does a web server?</h3>
+		<h7>The primary function of a web server is to store, process and deliver web pages to clients. </h7>
+		
+		<h3>2.3 How can content be stored on a web server?</h3>
+		<h7>The resource is typically a real file on the server's secondary storage, but this is not necessarily the case and depends on how the web server is implemented. </h7>
+		
+		<h3>2.4 How is content in webpages described?</h3>
+		<h7>With tags. </h7>
+		<h7> </h7>
+		
+		<h2>3. task: Web Client</h2>
+		
+		<h3>3.1 What is a web client?</h3>
+		<h7>A web client is a software application for accessing information on the World Wide Web. </h7>
+		
+		<h3>3.2 What does a web client?</h3>
+		<h7>It displays web pages, images and videos on the users device. </h7>
+		
+		<h3>3.3 Web Client and Web Browser is the same?</h3>
+		<h7>A web client gets data and the web browser processes the data. </h7>
+		<h7> </h7>
+		
+		<h2>4. task: Hello World</h2>
+		
+		<h3>4.1 What is the html head element?</h3>
+		<h7>The <.head> element is a container for all the <.head> elements. Head elements can include a title for the document, styles, meta information, scripts and more. It is placed between the <.html> tag and the <.body> tag. </h7>
+		
+		<h3>4.2 What does <!DOCTYPE` html> mean?</h3>
+		<h7>The <.!DOCTYPE> declaration refers to a DTD. The DTD specifies the rules for the markup language, so that the browsers render the content correctly. </h7>
+		
+		<h3>4.3 What are the two top most elements within the html element?</h3>
+		<h7>The head and the body. </h7>
+		
+		<h3>4.4 How to emphasize a text and how is it displayed in the browser?</h3>
+		<h7>With the command <.em><./em>, it is displayed in italics (kursiv) in the browser. </h7>
+		
+		<h3>4.5 How to mark up important text and how is it displayed in the browser?</h3>
+		<h7>With the command <.strong><./strong>, it is displayed in bold (fett) in the browser. </h7>	
+		<h7> </h7>
+				
+		<p>
+		</p>
+	</body>
+</html>
